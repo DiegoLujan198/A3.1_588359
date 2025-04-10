@@ -9,4 +9,4 @@ corresponden a distintos tipos de cáncer.
 
 - [HTML](./A3.1_588359.html)
 - [Jupyter Notebook](./A3.1_588359.ipynb)
-- [Base de Datos](./bitacora_de_cambios_tr_indice_cla_mensual_nac_2007_2023.csv)
+- [Base de Datos](./A3.1_Khan.csv.csv)
